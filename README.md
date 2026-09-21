@@ -1,4 +1,8 @@
-## Hello there 👋
+# Hi there 👋 I'm Luca
+
+<p align="center">
+  <img src="dist/github-cosmos.svg" alt="GitHub Orbit" width="100%">
+</p>
 
 <!--
 **LucaTvl/LucaTvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
