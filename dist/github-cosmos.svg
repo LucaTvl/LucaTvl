@@ -371,7 +371,7 @@
         <!-- Commits Pill -->
         <rect x="88" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="128" y="16" text-anchor="middle" class="metric-label">COMMITS</text>
-        <text x="128" y="30" text-anchor="middle" class="metric-val">⚡ 64</text>
+        <text x="128" y="30" text-anchor="middle" class="metric-val">⚡ 156</text>
 
         <!-- Forks Pill -->
         <rect x="176" y="0" width="76" height="36" rx="8" class="metric-pill-bg" />
@@ -381,7 +381,7 @@
         <!-- Languages Pill -->
         <rect x="260" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="300" y="16" text-anchor="middle" class="metric-label">LANGUAGES</text>
-        <text x="300" y="30" text-anchor="middle" class="metric-val">❖ 8</text>
+        <text x="300" y="30" text-anchor="middle" class="metric-val">❖ 7</text>
       </g>
       
     </g>
@@ -633,16 +633,16 @@
       
         <g class="">
           <g transform="translate(382.19, 331.25)">
-            <circle cx="0" cy="0" r="18.4" fill="none" stroke="#B07219" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
+            <circle cx="0" cy="0" r="18" fill="none" stroke="#B07219" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
             
-            <circle cx="0" cy="0" r="16.4" fill="none" stroke="var(--color-accent)" stroke-width="0.8" stroke-dasharray="3, 3" opacity="0.6" />
-            <circle cx="0" cy="0" r="14.4" fill="#B07219" opacity="0.25" filter="url(#stellar-glow)" />
-            <circle cx="0" cy="0" r="12.4" fill="#B07219" />
-            <circle cx="0" cy="0" r="4.34" fill="#FFFFFF" opacity="0.6" />
+            <circle cx="0" cy="0" r="16" fill="none" stroke="var(--color-accent)" stroke-width="0.8" stroke-dasharray="3, 3" opacity="0.6" />
+            <circle cx="0" cy="0" r="14" fill="#B07219" opacity="0.25" filter="url(#stellar-glow)" />
+            <circle cx="0" cy="0" r="12" fill="#B07219" />
+            <circle cx="0" cy="0" r="4.199999999999999" fill="#FFFFFF" opacity="0.6" />
           </g>
 
           <!-- Typographic Label -->
-          <g transform="translate(366.7, 347.9)">
+          <g transform="translate(367.0, 347.7)">
             <text
               x="0"
               y="0"
@@ -657,7 +657,7 @@
               text-anchor="end"
               class="repo-sub"
             >
-              ★ 5 • Java
+              ★ 5 • Java (0%)
             </text>
           </g>
         </g>
@@ -695,11 +695,11 @@
       
         <g class="">
           <g transform="translate(448.7, 417.9)">
-            <circle cx="0" cy="0" r="18" fill="none" stroke="#F1E05A" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
+            <circle cx="0" cy="0" r="18" fill="none" stroke="#f1e05a" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
             
             
-            <circle cx="0" cy="0" r="14" fill="#F1E05A" opacity="0.25" filter="url(#stellar-glow)" />
-            <circle cx="0" cy="0" r="12" fill="#F1E05A" />
+            <circle cx="0" cy="0" r="14" fill="#f1e05a" opacity="0.25" filter="url(#stellar-glow)" />
+            <circle cx="0" cy="0" r="12" fill="#f1e05a" />
             <circle cx="0" cy="0" r="4.199999999999999" fill="#FFFFFF" opacity="0.6" />
           </g>
 
@@ -882,33 +882,33 @@
       
     <g class="footer-group">
       <!-- Spectrum Bar -->
-      <rect x="32.0" y="502" width="435.6" height="6" rx="2" fill="#3178C6" /><rect x="469.1" y="502" width="129.6" height="6" rx="2" fill="#3572A5" /><rect x="600.1" y="502" width="118.7" height="6" rx="2" fill="#F1E05A" /><rect x="720.3" y="502" width="78.6" height="6" rx="2" fill="#B07219" /><rect x="800.4" y="502" width="69.4" height="6" rx="2" fill="#563D7C" />
+      <rect x="32.0" y="502" width="480.7" height="6" rx="2" fill="#3178C6" /><rect x="514.2" y="502" width="143.0" height="6" rx="2" fill="#3572A5" /><rect x="658.7" y="502" width="130.4" height="6" rx="2" fill="#F1E05A" /><rect x="790.6" y="502" width="76.9" height="6" rx="2" fill="#563D7C" /><rect x="869.0" y="502" width="2.5" height="6" rx="2" fill="#64748B" />
 
       <!-- Legend Items -->
       
         <g transform="translate(32.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#3178C6" />
-          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">52.1%</tspan></text>
+          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">57.5%</tspan></text>
         </g>
       
         <g transform="translate(157.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#3572A5" />
-          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">15.5%</tspan></text>
+          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">17.1%</tspan></text>
         </g>
       
         <g transform="translate(250.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#F1E05A" />
-          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">14.2%</tspan></text>
+          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">15.6%</tspan></text>
         </g>
       
         <g transform="translate(375.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#B07219" />
-          <text x="14" y="8" class="legend-text">Java <tspan class="legend-pct">9.4%</tspan></text>
+          <circle cx="4" cy="4" r="4" fill="#563D7C" />
+          <text x="14" y="8" class="legend-text">CSS <tspan class="legend-pct">9.2%</tspan></text>
         </g>
       
         <g transform="translate(465.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#563D7C" />
-          <text x="14" y="8" class="legend-text">CSS <tspan class="legend-pct">8.3%</tspan></text>
+          <circle cx="4" cy="4" r="4" fill="#64748B" />
+          <text x="14" y="8" class="legend-text">MDX <tspan class="legend-pct">0.3%</tspan></text>
         </g>
       
 
