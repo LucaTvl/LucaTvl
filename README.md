@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Luca
+# Hello there 👋
 
 <p align="center">
   <img src="dist/github-cosmos.svg" alt="GitHub Orbit" width="100%">
