@@ -366,7 +366,7 @@
         <!-- Stars Pill -->
         <rect x="0" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="40" y="16" text-anchor="middle" class="metric-label">STARS</text>
-        <text x="40" y="30" text-anchor="middle" class="metric-val">★ 23</text>
+        <text x="40" y="30" text-anchor="middle" class="metric-val">★ 28</text>
 
         <!-- Commits Pill -->
         <rect x="88" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
@@ -626,7 +626,7 @@
               text-anchor="start"
               class="repo-sub"
             >
-              ★ 5 • Java (5%)
+              ★ 9 • Java (5%)
             </text>
           </g>
         </g>
@@ -781,7 +781,7 @@
               text-anchor="start"
               class="repo-sub"
             >
-              ★ 1 • Python (0%)
+              ★ 2 • Python (0%)
             </text>
           </g>
         </g>
@@ -915,7 +915,7 @@
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
       <g transform="translate(868, 524)">
         <text x="0" y="0" text-anchor="end" class="watermark-text">
-          ✦ github-profile-orbit • 2026-10-14
+          ✦ github-profile-orbit • 2026-10-15
         </text>
       </g>
     </g>
