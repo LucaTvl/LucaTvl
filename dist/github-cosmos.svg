@@ -366,7 +366,7 @@
         <!-- Stars Pill -->
         <rect x="0" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="40" y="16" text-anchor="middle" class="metric-label">STARS</text>
-        <text x="40" y="30" text-anchor="middle" class="metric-val">★ 29</text>
+        <text x="40" y="30" text-anchor="middle" class="metric-val">★ 30</text>
 
         <!-- Commits Pill -->
         <rect x="88" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
@@ -554,8 +554,8 @@
                 <line
                   x1="465.8"
                   y1="203.6"
-                  x2="683.2"
-                  y2="208.4"
+                  x2="682.6"
+                  y2="209.1"
                   stroke="#3178C6"
                   stroke-width="0.8"
                   stroke-dasharray="2, 3"
@@ -565,8 +565,8 @@
                 <line
                   x1="367"
                   y1="160.2"
-                  x2="583.3"
-                  y2="264.4"
+                  x2="582.7"
+                  y2="265"
                   stroke="#3572A5"
                   stroke-width="0.8"
                   stroke-dasharray="2, 3"
@@ -601,17 +601,17 @@
     
       <g class="planet-nodes">
         <g class="">
-          <g transform="translate(512.9, 326.1)">
-            <circle cx="0" cy="0" r="20.8" fill="none" stroke="#B07219" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
+          <g transform="translate(514.2, 324.3)">
+            <circle cx="0" cy="0" r="18" fill="none" stroke="#B07219" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
             
-            <circle cx="0" cy="0" r="18.8" fill="none" stroke="var(--color-accent)" stroke-width="0.8" stroke-dasharray="3, 3" opacity="0.6" />
-            <circle cx="0" cy="0" r="16.8" fill="#B07219" opacity="0.25" filter="url(#stellar-glow)" />
-            <circle cx="0" cy="0" r="14.8" fill="#B07219" />
-            <circle cx="0" cy="0" r="5.18" fill="#FFFFFF" opacity="0.6" />
+            <circle cx="0" cy="0" r="16" fill="none" stroke="var(--color-accent)" stroke-width="0.8" stroke-dasharray="3, 3" opacity="0.6" />
+            <circle cx="0" cy="0" r="14" fill="#B07219" opacity="0.25" filter="url(#stellar-glow)" />
+            <circle cx="0" cy="0" r="12" fill="#B07219" />
+            <circle cx="0" cy="0" r="4.199999999999999" fill="#FFFFFF" opacity="0.6" />
           </g>
 
           <!-- Typographic Label -->
-          <g transform="translate(530.5, 344.0)">
+          <g transform="translate(529.8, 340.1)">
             <text
               x="0"
               y="0"
@@ -626,7 +626,7 @@
               text-anchor="start"
               class="repo-sub"
             >
-              ★ 10 • Java
+              ★ 11 • Java (5%)
             </text>
           </g>
         </g>
@@ -756,7 +756,7 @@
         </g>
       
         <g class="">
-          <g transform="translate(583.3, 264.4)">
+          <g transform="translate(582.7, 265)">
             <circle cx="0" cy="0" r="18" fill="none" stroke="#3572A5" stroke-width="0.8" opacity="0.45" filter="url(#stellar-glow)" class="pulsar-glow" />
             
             <circle cx="0" cy="0" r="16" fill="none" stroke="var(--color-accent)" stroke-width="0.8" stroke-dasharray="3, 3" opacity="0.6" />
@@ -766,7 +766,7 @@
           </g>
 
           <!-- Typographic Label -->
-          <g transform="translate(602.2, 261.2)">
+          <g transform="translate(601.6, 261.9)">
             <text
               x="0"
               y="0"
@@ -849,7 +849,7 @@
         </g>
       
         <g class="">
-          <g transform="translate(683.2, 208.4)">
+          <g transform="translate(682.6, 209.1)">
             
             
             <circle cx="0" cy="0" r="16" fill="none" stroke="var(--color-accent)" stroke-width="0.8" stroke-dasharray="3, 3" opacity="0.6" />
@@ -859,7 +859,7 @@
           </g>
 
           <!-- Typographic Label -->
-          <g transform="translate(701.4, 201.8)">
+          <g transform="translate(700.8, 202.6)">
             <text
               x="0"
               y="0"
@@ -882,40 +882,40 @@
       
     <g class="footer-group">
       <!-- Spectrum Bar -->
-      <rect x="32.0" y="502" width="423.9" height="6" rx="2" fill="#3178C6" /><rect x="457.4" y="502" width="125.4" height="6" rx="2" fill="#3572A5" /><rect x="584.3" y="502" width="115.4" height="6" rx="2" fill="#F1E05A" /><rect x="701.1" y="502" width="99.5" height="6" rx="2" fill="#B07219" /><rect x="802.1" y="502" width="67.7" height="6" rx="2" fill="#563D7C" />
+      <rect x="32.0" y="502" width="477.4" height="6" rx="2" fill="#3178C6" /><rect x="510.9" y="502" width="142.1" height="6" rx="2" fill="#3572A5" /><rect x="654.5" y="502" width="129.6" height="6" rx="2" fill="#F1E05A" /><rect x="785.6" y="502" width="76.1" height="6" rx="2" fill="#563D7C" /><rect x="863.1" y="502" width="5.9" height="6" rx="2" fill="#B07219" />
 
       <!-- Legend Items -->
       
         <g transform="translate(32.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#3178C6" />
-          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">50.7%</tspan></text>
+          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">57.1%</tspan></text>
         </g>
       
         <g transform="translate(157.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#3572A5" />
-          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">15%</tspan></text>
+          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">17%</tspan></text>
         </g>
       
         <g transform="translate(250.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#F1E05A" />
-          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">13.8%</tspan></text>
+          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">15.5%</tspan></text>
         </g>
       
         <g transform="translate(375.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#B07219" />
-          <text x="14" y="8" class="legend-text">Java <tspan class="legend-pct">11.9%</tspan></text>
+          <circle cx="4" cy="4" r="4" fill="#563D7C" />
+          <text x="14" y="8" class="legend-text">CSS <tspan class="legend-pct">9.1%</tspan></text>
         </g>
       
         <g transform="translate(465.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#563D7C" />
-          <text x="14" y="8" class="legend-text">CSS <tspan class="legend-pct">8.1%</tspan></text>
+          <circle cx="4" cy="4" r="4" fill="#B07219" />
+          <text x="14" y="8" class="legend-text">Java <tspan class="legend-pct">0.7%</tspan></text>
         </g>
       
 
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
       <g transform="translate(868, 524)">
         <text x="0" y="0" text-anchor="end" class="watermark-text">
-          ✦ github-profile-orbit • 2026-10-21
+          ✦ github-profile-orbit • 2026-10-22
         </text>
       </g>
     </g>
