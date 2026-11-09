@@ -355,7 +355,7 @@
       <text x="0" y="44" class="subtitle-text">
         <tspan class="rank-badge">Active Contributor</tspan>
         <tspan class="bullet-sep"> • </tspan>
-        <tspan>Primary: TypeScript</tspan>
+        <tspan>Primary: Python</tspan>
         <tspan class="bullet-sep"> • </tspan>
         <tspan>9 Repositories</tspan>
       </text>
@@ -371,7 +371,7 @@
         <!-- Commits Pill -->
         <rect x="88" y="0" width="80" height="36" rx="8" class="metric-pill-bg" />
         <text x="128" y="16" text-anchor="middle" class="metric-label">COMMITS</text>
-        <text x="128" y="30" text-anchor="middle" class="metric-val">⚡ 114</text>
+        <text x="128" y="30" text-anchor="middle" class="metric-val">⚡ 116</text>
 
         <!-- Forks Pill -->
         <rect x="176" y="0" width="76" height="36" rx="8" class="metric-pill-bg" />
@@ -781,7 +781,7 @@
               text-anchor="start"
               class="repo-sub"
             >
-              ★ 2 • Python (0%)
+              ★ 2 • Python (44%)
             </text>
           </g>
         </g>
@@ -882,40 +882,40 @@
       
     <g class="footer-group">
       <!-- Spectrum Bar -->
-      <rect x="32.0" y="502" width="456.5" height="6" rx="2" fill="#3178C6" /><rect x="490.0" y="502" width="169.7" height="6" rx="2" fill="#3572A5" /><rect x="661.2" y="502" width="124.6" height="6" rx="2" fill="#F1E05A" /><rect x="787.2" y="502" width="72.7" height="6" rx="2" fill="#563D7C" /><rect x="861.5" y="502" width="7.5" height="6" rx="2" fill="#B07219" />
+      <rect x="32.0" y="502" width="410.5" height="6" rx="2" fill="#3572A5" /><rect x="444.0" y="502" width="274.2" height="6" rx="2" fill="#3178C6" /><rect x="719.7" y="502" width="92.0" height="6" rx="2" fill="#F1E05A" /><rect x="813.1" y="502" width="47.7" height="6" rx="2" fill="#563D7C" /><rect x="862.3" y="502" width="4.2" height="6" rx="2" fill="#B07219" />
 
       <!-- Legend Items -->
       
         <g transform="translate(32.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#3178C6" />
-          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">54.6%</tspan></text>
+          <circle cx="4" cy="4" r="4" fill="#3572A5" />
+          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">49.1%</tspan></text>
         </g>
       
-        <g transform="translate(157.0, 520)">
-          <circle cx="4" cy="4" r="4" fill="#3572A5" />
-          <text x="14" y="8" class="legend-text">Python <tspan class="legend-pct">20.3%</tspan></text>
+        <g transform="translate(125.0, 520)">
+          <circle cx="4" cy="4" r="4" fill="#3178C6" />
+          <text x="14" y="8" class="legend-text">TypeScript <tspan class="legend-pct">32.8%</tspan></text>
         </g>
       
         <g transform="translate(250.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#F1E05A" />
-          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">14.9%</tspan></text>
+          <text x="14" y="8" class="legend-text">JavaScript <tspan class="legend-pct">11%</tspan></text>
         </g>
       
         <g transform="translate(375.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#563D7C" />
-          <text x="14" y="8" class="legend-text">CSS <tspan class="legend-pct">8.7%</tspan></text>
+          <text x="14" y="8" class="legend-text">CSS <tspan class="legend-pct">5.7%</tspan></text>
         </g>
       
         <g transform="translate(465.0, 520)">
           <circle cx="4" cy="4" r="4" fill="#B07219" />
-          <text x="14" y="8" class="legend-text">Java <tspan class="legend-pct">0.9%</tspan></text>
+          <text x="14" y="8" class="legend-text">Java <tspan class="legend-pct">0.5%</tspan></text>
         </g>
       
 
       <!-- Octo-Orbit Brand / Telemetry Timestamp on the right -->
       <g transform="translate(868, 524)">
         <text x="0" y="0" text-anchor="end" class="watermark-text">
-          ✦ github-profile-orbit • 2026-11-08
+          ✦ github-profile-orbit • 2026-11-09
         </text>
       </g>
     </g>
